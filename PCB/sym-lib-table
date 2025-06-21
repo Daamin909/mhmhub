@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "corechips")(type "KiCad")(uri "/Users/daaminashai/Downloads/SL2.1A/SL2.1A.kicad_sym")(options "")(descr ""))
+)
