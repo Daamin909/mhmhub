@@ -60,16 +60,17 @@ The case was made in Fusion360.
 
 ## BOM - Products
 
-| Name        | Qty | Final Price - INR (USD) | Link                                                                                                                                       |
-| ----------- | --- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| PCBA        | 2   | 2,597.77 ($30.4)        | [here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5fce6532436acc2e02ca682e6a3f78e5be402c24_screenshot_2025-06-27_at_7.26.42___pm.png) |
-| PCB         | 5   | 1210.01 ($14.16)        | [here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5fce6532436acc2e02ca682e6a3f78e5be402c24_screenshot_2025-06-27_at_7.26.42___pm.png) |
-| Top Case    | 1   | NA                      | print legion                                                                                                                               |
-| Bottom Case | 1   | NA                      | print legion                                                                                                                               |
+| Name                 | Qty | Final Price - INR (USD) | Link                                                                                                                                       |
+| -------------------- | --- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| PCBA                 | 2   | 2,597.77 ($30.4)        | [here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5fce6532436acc2e02ca682e6a3f78e5be402c24_screenshot_2025-06-27_at_7.26.42___pm.png) |
+| PCB                  | 5   | 1210.01 ($14.16)        | [here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5fce6532436acc2e02ca682e6a3f78e5be402c24_screenshot_2025-06-27_at_7.26.42___pm.png) |
+| USB-C to USB-C cable | 1   | 350 ($4.1)              | [here](https://amzn.in/d/gBN8jyo)                                                                                                          |
+| Top Case             | 1   | NA                      | print legion                                                                                                                               |
+| Bottom Case          | 1   | NA                      | print legion                                                                                                                               |
 
 ## Total Pricing
 
-The total comes out to be approximately 3,807.79 INR ($44.56). Does not include 3D - Printed case.
+The total comes out to be approximately 4158 INR ($48.66). Does not include 3D - Printed case.
 
 ## Notes :-
 

@@ -5,6 +5,8 @@ description: "a cool looking & compact usb hub"
 created_at: "2025-06-20"
 ---
 
+# TOTAL TIME SPENT: 14 hours
+
 # mhmhub - a custom usb-c hub
 
 ### 20th June (day 1): brainstorming & schematic
