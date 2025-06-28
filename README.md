@@ -66,7 +66,7 @@ The case was made in Fusion360.
 | PCB                  | 5   | 1210.01 ($14.16)        | [here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5fce6532436acc2e02ca682e6a3f78e5be402c24_screenshot_2025-06-27_at_7.26.42___pm.png) |
 | USB-C to USB-C cable | 1   | 350 ($4.1)              | [here](https://amzn.in/d/gBN8jyo)                                                                                                          |
 | M2 x 6mm Screws      | 25  | 224 ($2.62)             | [here](https://amzn.in/d/dhuYR6N)                                                                                                          |
-| USB-C to USB-C cable | 50  | 250 ($2.93)             | [here](https://amzn.in/d/iHDKn9j)                                                                                                          |
+| M2 Nuts | 50  | 250 ($2.93)             | [here](https://amzn.in/d/iHDKn9j)                                                                                                          |
 | Top Case             | 1   | NA                      | print legion                                                                                                                               |
 | Bottom Case          | 1   | NA                      | print legion                                                                                                                               |
 
